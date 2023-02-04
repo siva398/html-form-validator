@@ -3,4 +3,9 @@
   "extends": [
     "local>xtreamwayz/.github:renovate-config"
   ]
+}{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>xtreamwayz/.github:renovate-config"
+  ]
 }
